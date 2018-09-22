@@ -1,0 +1,5 @@
+<configure>
+	<button name = "first">
+		<btn />
+	</button>
+</configure>
