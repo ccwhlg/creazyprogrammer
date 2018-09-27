@@ -1,8 +1,8 @@
 @echo off
 @title CMake Build
 
-md build
-md install
+md build\win32
+md install\win32
 
 cmake .
 

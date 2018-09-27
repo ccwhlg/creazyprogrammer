@@ -1,7 +1,7 @@
 project (HELLO)
 
 set( HELLO_SRCS
-	hellworld.cpp
+	main.cpp
 )
 
 add_executable(Hello ${HELLO_SRCS})
